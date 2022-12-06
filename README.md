@@ -1,4 +1,4 @@
-DISCLAIMER: gambling is bad
+## DISCLAIMER: gambling is bad
 
 # Automatization_for_betting
 An implementation of auto-betting in casino 
