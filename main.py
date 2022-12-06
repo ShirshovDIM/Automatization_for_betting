@@ -30,7 +30,7 @@ def main():
             options=options
         )
 
-        driver.get('https://betfury.io/live/baccarat-2-3-4')
+        driver.get('restricted_link')
 
         time.sleep(5)
 
